@@ -1,0 +1,4 @@
+# Data folder for minio
+data/
+.env
+node_modules
